@@ -1,1 +1,1 @@
-Trabalhos da aula de python :snake:
+Exercícios das aulas de python :snake:
