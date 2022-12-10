@@ -1,1 +1,1 @@
-<h1> Exercícios das aulas de python </h1> :snake:
+<h1> Exercícios das aulas de python :snake: </h1>
